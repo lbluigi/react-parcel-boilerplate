@@ -1,6 +1,6 @@
 # Basic React + Parcel boilerplate
 
-### Features
+## Features
 
 - React
 - Parcel
